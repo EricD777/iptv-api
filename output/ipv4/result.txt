@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-06 18:45:27,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-07 06:30:55,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -40,6 +40,7 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 
 ☘️广东频道,#genre#
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e8fcaf&tk=822270345d4c
 
 ☘️湖南频道,#genre#
 
@@ -57,8 +58,8 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 
 🏀体育频道,#genre#
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🪁动画频道,#genre#
 少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
@@ -82,7 +83,6 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
-金鹰卡通,http://101.66.198.203:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
